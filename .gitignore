@@ -1,0 +1,9 @@
+./datasets
+.vscode
+.idea
+.ipynb_checkpoints
+./models
+models
+dataset
+vectorstore_db
+/Activity_Finetune/vectorstore_db/
